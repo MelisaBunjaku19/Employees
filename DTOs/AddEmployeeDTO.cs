@@ -8,3 +8,4 @@ namespace EmployeesApi.DTOs
         public string? EducationLevel { get; set; }
     }
 }
+

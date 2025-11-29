@@ -2,6 +2,7 @@
 appsettings.Development.json
 appsettings.Production.json
 appsettings.*.json
+appsettings.json
 
 
 *.db
@@ -17,5 +18,3 @@ obj/
 .vscode/
 .idea/
 
-
-user-secrets.json
