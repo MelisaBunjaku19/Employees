@@ -49,7 +49,7 @@ EmployeesApi/
 └── README.md                      
 ```
 
-## Ide
+## IDE
 - **Visual Studio Code**
 
 ## Database
@@ -64,7 +64,7 @@ EmployeesApi/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [(https://github.com/MelisaBunjaku19/Employees-API.git)]
 cd EmployeesApi
 ```
 
